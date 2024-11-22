@@ -1,6 +1,6 @@
 {
   "name": "sk-eventsource-polyfill",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Server Sent Event SSE -also known as EventSource- handler",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
