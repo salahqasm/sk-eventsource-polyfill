@@ -18,18 +18,11 @@
   },
   "keywords": [
     "eventsource",
-    "EventSource",
     "SSE",
-    "SSE",
-    "handler",
-    "server",
-    "sent",
-    "events",
-    "SSE",
+    "server sent events",
     "polyfill",
-    "eventsource",
-    "polyfill",
-    "polyfill"
+    "streaming",
+    "http"
   ],
   "author": "Salah Khalaf",
   "license": "ISC",
